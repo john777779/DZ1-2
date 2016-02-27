@@ -1,0 +1,22 @@
+body {
+	background: #ddd;
+}
+
+/* Page */
+.main {
+	font-size: 18px;
+	width: 450px;
+    padding: 60px;
+    margin: auto;
+    background: #fff;
+}
+/* Header */
+h1 {
+	font-size: 22px;
+	text-align: center;
+
+}
+/* Photo */
+.img {
+	text-align: center;
+}
